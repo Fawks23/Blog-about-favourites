@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <style>
+    body{
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+    }
+    #Blog{
+        color: rgb(255, 0, 13);
+        font-family: "Trajan Pro",sans-serif;
+        background-color: rgb(255, 255, 255);
+        font-style:italic;
+    }
+    #intro{
+        color: rgb(255, 255, 255);
+       
+       font-family:"Segoe Print",sans-serif ;
+    }
+    #Profile{
+        font-family:"Script MT";
+    }
+    #Minecraft{
+        font-family:"Script MT";
+    }
+    #Khan{
+        font-family:"Script MT";
+    }
+    p{
+        font-family:"Segoe Print",sans-serif ;
+    }
+    </style>
+    <body>
+        
+        <h1 id="Blog">Fawks's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <a href="#Profile"><li>About me</li></a>
+            <a href="#Minecraft"><li>Minecraft</li></a>
+            <a href="#Khan"><li>Khan Academy</li></a>
+        </ul>
+        
+        <h2 id="Profile">#About me</h2>
+        <h6>12 December,2020</h6>
+        
+        <p id="intro">Hello! I am Fawks. Well my real name is Abhishek(Never mind!).So what should I say...<br>
+            OK, WELCOME TO MY BLOG!!<br>
+            K , so I will be upating this blog periodically. Now about me- I am a person who likes programming(but I really hate to type), photoshop, games(especially MINECRAFT) and hacking(mmm my wish is to hack a big website).<br>All thanks to Khan Academy I learned programming.
+        </p>
+        <h2 id="Minecraft">#Minecraft</h2>
+        <h6>12 December,2020</h6>
+        <p>
+           This entry is about my favourite sandbox game.......MINECRAFT!<br></p>
+           <h4> What is it?</h4>
+          <p> Minecraft is a sandbox video game developed by Mojang Studios. The game was originally created by Markus "Notch" Persson in the Java programming language. Following several early test versions, it was released as a paid public alpha for personal computers in 2009 before officially releasing in November 2011, with Jens Bergensten taking over development. Minecraft has since been ported to several other platforms and is the best-selling video game of all time, with 200 million copies sold and 126 million monthly active users as of 2020.
+
+In Minecraft, players explore a blocky, procedurally-generated 3D world with infinite terrain, and may discover and extract raw materials, craft tools and items, and build structures or earthworks. Depending on game mode, players can fight computer-controlled "mobs", as well as cooperate with or compete against other players in the same world. Game modes include a survival mode, in which players must acquire resources to build the world and maintain health, and a creative mode, where players have unlimited resources. Players can modify the game to create new gameplay mechanics, items, and assets.
+
+Minecraft has been critically acclaimed, winning several awards and being cited as one of the greatest video games of all time. Social media, parodies, adaptations, merchandise, and the annual MineCon conventions played large roles in popularizing the game. It has also been used in educational environments, especially in the realm of computing systems, as virtual computers and hardware devices have been built in it. In 2014, Mojang and the Minecraft intellectual property were purchased by Microsoft for US$2.5 billion. A number of spin-off games have also been produced, such as Minecraft: Story Mode, Minecraft Dungeons, and Minecraft Earth. 
+Thankful to source(<a href="https://en.wikipedia.org/wiki/Minecraft">WIKIPEDIA</a>)
+        </p>
+        <p>Now you may ask what's so special about a game with no graphics and full of blocks. Then you must know, sky is the limit in minecraft which makes it <strong>UNIQUE!</strong></p>
+        <h2 id="Khan">Khan Academy</h2>
+        <p>As I said earlier I learned(and still learning) programming in Khan Academy. I will give you a short description.</p>
+            <h4> What is Khan Academy</h4>
+        <p>
+            Khan Academy is an American non-profit educational organization created in 2008 by Sal Khan, with the goal of creating a set of online tools that help educate students. The organization produces short lessons in the form of videos. Its website also includes supplementary practice exercises and materials for educators. All resources are available for free to users of the website and app.<br>
+            MORE ON <a href="https://en.wikipedia.org/wiki/Khan_Academy">WIKIPEDIA</a>.
+        </p>    
+            
+        <a href="#Blog">BACK TO TOP</a>
+        
+        
+    </body>
+</html>
